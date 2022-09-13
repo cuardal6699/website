@@ -6,7 +6,7 @@ function Details() {
     return (
 <section className='pt-16'>
             <div className='container mx-auto px-16 pb-24 '>
-                <div className='grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-7 overflow-hidden'>
+                <div className='grid sm:grid-cols-1 lg:grid-cols-3 grid-cols-1  gap-7 overflow-hidden'>
 
 
 
